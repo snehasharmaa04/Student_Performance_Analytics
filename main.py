@@ -4,12 +4,12 @@ from functions import calculate_metrics, process_student_records, get_subject_an
 
 def main():
     print("=" * 65)
-    print("       STUDENT PERFORMANCE ANALYTICS SYSTEM")
+    print("STUDENT PERFORMANCE ANALYTICS SYSTEM")
     print("=" * 65)
 
     # 1. Dataset Read karna (Step 2)
     try:
-        df = pd.read_csv('students.csv')
+        df = pd.read_csv('students_data.csv')
         print(f"[✓] Dataset successfully load hua: {len(df)} records mile.\n")
     except FileNotFoundError:
         print("[!] Error: students.csv file nahi mili!")
