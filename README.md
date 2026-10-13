@@ -6,7 +6,7 @@ A modular Python based analytics system utilizing Numpy and Pandas to automate s
 ## 1. Project Title & Details
 - *Project Title:* Student Performance Analytics System
 - *Technologies:* Python, NumPy, Pandas
-- *Submission Date:* October 2026
+- *Submission Date:* 13 October 2026
 
 ## 2. Objective
 This project automates student performance evaluation in educational settings. It reads raw student examination and attendance records, computes cumulative metrics, enforces academic grading logic, monitors attendance requirements, and generates subject-level and batch-level performance summaries.
