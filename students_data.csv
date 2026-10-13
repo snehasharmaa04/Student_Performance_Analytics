@@ -1,0 +1,24 @@
+Student Performance Analytics System - Raw Dataset,,,,,,
+"Total Records: 20 Students | Subjects: Maths, Physics, Computer Science | Attendance: %",,,,,,
+,,,,,,
+StudentID,Name,Department,Maths,Physics,Computer_Science,Attendance (%)
+101,Aarav Patel,Computer Science,85,78,92,94
+102,Diya Sharma,Information Technology,42,38,50,72
+103,Rohan Verma,Computer Science,95,88,96,98
+104,Ananya Iyer,Data Science,35,40,32,65
+105,Vikram Singh,Mechanical,74,69,81,88
+106,Pooja Nair,Information Technology,88,91,85,95
+107,Kunal Joshi,Data Science,58,62,64,80
+108,Sneha Rao,Computer Science,91,94,89,96
+109,Aditya Kulkarni,Mechanical,30,45,40,55
+110,Meera Sen,Information Technology,78,82,75,90
+111,Rahul Gupta,Computer Science,65,70,68,85
+112,Neha Reddy,Data Science,82,79,88,92
+113,Arjun Nair,Mechanical,48,52,55,70
+114,Kavita Das,Information Technology,93,89,95,97
+115,Manish Pandey,Data Science,25,30,28,45
+116,Priya Mehta,Computer Science,76,80,84,89
+117,Siddharth Jain,Mechanical,60,58,62,78
+118,Tanvi Deshmukh,Information Technology,85,87,90,93
+119,Gaurav Bhatt,Data Science,70,72,68,82
+120,Ritu Saxena,Computer Science,90,85,92,94
